@@ -1,2 +1,6 @@
 # hello-world
-First repository
+
+Benjamin Givner
+
+Hellow there, my name is Benjamin Givner, new to Github. 
+
